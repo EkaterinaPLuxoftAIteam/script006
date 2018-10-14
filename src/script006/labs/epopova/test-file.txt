@@ -1,0 +1,6 @@
+TESTING FRAMEWORKS: NOSE
+ - Nose is built on top of unittestbut extends it adding a number of helpful functions for writing timed tests, testing for exceptions, and other common use cases
+ - Nose collects tests automatically, as long as you follow some simple guidelines for organizing your library and test code. 
+   This make it really easy for developers to test their code
+ - Nose has been in maintenance mode for the past several years. There is an active community working on a slightly new approach called Nose2
+ - See more at: https://github.com/nose-devs/nose
